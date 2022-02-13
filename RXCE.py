@@ -95,15 +95,15 @@ def hero():
         if(newperiod%2==0):
             sum=getSum(current)
             if(sum%2==0):
-                print(newperiod+1," : 💥💥🔴🔴🔴💥💥")
+                print(newperiod+1," : 💥💥🔴RED🔴💥💥")
             else:
-                print(newperiod+1,"  : 💥💥🟢🟢🟢💥💥")
+                print(newperiod+1,"  : 💥💥🟢GREEN🟢💥💥")
         else:
             sum=getSum(current)
             if(sum%2==0):
-                print(newperiod+1,"   : 💥💥🔴🔴🔴💥💥")
+                print(newperiod+1,"   : 💥💥🔴RED🔴💥💥")
             else:
-                print(newperiod+1,"   : 💥💥🟢🟢🟢💥💥")
+                print(newperiod+1,"   : 💥💥🟢GREEN🟢💥💥")
         newperiod+=1
         numbers.append(current)
         y=input("Do you want to play : Press 1 and 0 to exit \n")
