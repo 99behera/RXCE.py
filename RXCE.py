@@ -217,7 +217,7 @@ else:
         bhai=input(": ")
         if(bhai==code or bhai==test or bhai==code1 or bhai==code2):
             clear()
-            print("You have bought hack for 15 day")
+            print("You have bought hack for 30 day")
             print(f"{purple}---------------Your play time----------------")
             print("25th-23th APRIL 2022, 02:30 PM- 03:00 PM")
             print("25th-23th APRIL 2022, 05:30 PM- 06:00 PM")
