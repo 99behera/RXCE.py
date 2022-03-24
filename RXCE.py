@@ -184,11 +184,11 @@ else:
     Finalend = now.replace(hour=22, minute=35, second=0, microsecond=0)
 
     if(now>Second and now<Secondend):
-            rava=291
+            rava=290
     elif(now>Third and now<Thirdend):
-            rava=351
+            rava=350
     elif(now>Final and now<Finalend):
-            rava=411
+            rava=410
     system(banner)
     print(f"{neon}*--------*--------*-------*---------*---------*")
     print("Your hack has expired--- Please contact")
