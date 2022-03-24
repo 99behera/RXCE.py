@@ -76,7 +76,7 @@ def hero():
     clear()
     y=1
     newperiod=period
-    banner='figlet RXCEV5.0|lolcat'
+    banner='figlet RXCEV5.1|lolcat'
     numbers=[]
     while(y):
         clear()
@@ -144,7 +144,7 @@ if(expirydate>today):
             period=360
             hero()
     else:
-        banner='figlet RXCEV5.0'
+        banner='figlet RXCEV5.1|lolcat'
         system(banner)
         #print(f"{red}"Hi!! Thanks for buying the hack")
         print("Hi! thanks for trying our DEMO")
@@ -167,13 +167,13 @@ else:
         # for mac and linux(here, os.name is 'posix')
         else:
             _ = system('clear')
-    code="RXCE1"
+    code="HACKK"
     code1="RXCE2"
     code2="RXCE3"
     test="BVCFT43"
     night="NSMNJUI13"
     nextday="RXCE"
-    banner='figlet RXCEV5.0|lolcat'
+    banner='figlet RXCEV5.1|lolcat'
     rava=0
     now = datetime.datetime.now()
     Second = now.replace(hour=10, minute=55, second=0, microsecond=0)
@@ -184,11 +184,11 @@ else:
     Finalend = now.replace(hour=22, minute=35, second=0, microsecond=0)
 
     if(now>Second and now<Secondend):
-            rava=291
+            rava=290
     elif(now>Third and now<Thirdend):
-            rava=351
+            rava=350
     elif(now>Final and now<Finalend):
-            rava=411
+            rava=410
     system(banner)
     print(f"{neon}*--------*--------*-------*---------*---------*")
     print("Your hack has expired--- Please contact")
@@ -210,8 +210,8 @@ else:
         print(f"{neon}*---------*----------*-------------*----------*")
         print(f"{red}*---------*----------*-------------*----------*")
         print("payhere--- UPI : ")
-        print(f"{yellow}UPI1 : fixxer786@okaxis")
-        print("UPI2 : fixxer786@okaxis")
+        print(f"{yellow}UPI1 : .......")
+        print("UPI2 : ........")
         print("If you have already paid to above UPI")
         print(f"{neon}Enter Your Activation Code Or Upi Reference for Opening Hack")
         bhai=input(": ")
@@ -219,9 +219,9 @@ else:
             clear()
             print("You have bought hack for 15 day")
             print(f"{purple}---------------Your play time----------------")
-            print("15th-2nd MAR 2022, 02:30 PM- 03:00 PM")
-            print("15th-2nd MAR 2022, 05:30 PM- 06:00 PM")
-            print("15th-2nd MAR 2022, 08:30 PM- 09:00 PM")
+            print("25th-23th APRIL 2022, 02:30 PM- 03:00 PM")
+            print("25th-23th APRIL 2022, 05:30 PM- 06:00 PM")
+            print("25th-23th APRIL 2022, 08:30 PM- 09:00 PM")
             print("Please play on the given time, and ")
             print(f"If you think it is an {red}error {yellow}contact {green}me ")
             print(f"{neon}On Telegram {red}@RXCE_LOVER")
@@ -238,7 +238,7 @@ else:
             sys.exit(" \n \n \n Contact on Telegram @RXCE_LOVER")
         elif(bhai==nextday):
             clear()
-            banner='figlet RXCEV5.0|lolcat'
+            banner='figlet RXCEV5.1|lolcat'
             system(banner)
             print("----------Your play time-----------")
             print("11th-1st MAR 2022, 02:30 PM- 03:00 PM")
@@ -267,7 +267,7 @@ else:
             sys.exit(" \n \n \n Contact on Telegram @RXCE_LOVER")
         else:
             clear()
-            banner='figlet RXCEV5.0|lolcat'
+            banner='figlet RXCEV5.1|lolcat'
             system(banner)
             print("Incorrect Activation Code :")
      
