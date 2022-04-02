@@ -81,7 +81,7 @@ def hero():
     while(y):
         clear()
         system(banner)
-        print(f"{red}Contact me on telegram @RXCE_LOVER")
+        print(f"{red}Contact me on telegram ....")
         print(f"{yellow}Enter ",newperiod," Parity Price :")
         current=input()
         current=int(current)
@@ -114,7 +114,7 @@ def hero():
             system('figlet Thank you!!')
             print("Play on next specified time!!")
             print("-----------Current Time UP----------")
-            sys.exit(" \n \n \n Contact on Telegram @RXCE_LOVER")
+            sys.exit(" \n \n \n Contact on Telegram ....")
             #print(numbers)
   
 
@@ -155,7 +155,7 @@ if(expirydate>today):
         #print("31st Aug 2021, 08:00 PM- 08:30 PM")
         print("Please play on the given time, and ")
         print("If you think it is an error contact")
-        print(" admin on telegram @RXCE_LOVER ")
+        print(" admin on telegram ..... ")
 
 
 
@@ -192,7 +192,7 @@ else:
     system(banner)
     print(f"{neon}*--------*--------*-------*---------*---------*")
     print("Your hack has expired--- Please contact")
-    print(" on telegram ----@RXCE_LOVER for activating")
+    print(" on telegram ---- for activating")
     print("     Plan Amount --    Total limit " )
     print(" 1.  1000 INR -------  1 Day (30 Games")
     print(" 2.  2500 INR -------  3 Days(90 Games")
@@ -206,7 +206,7 @@ else:
         print(f"Activate Hack By Entering The Correct ")
         print(f"{green}(UTR) Or Upi Reference Number") 
         print(f"{neon}To Activate The Hack")
-        print(f"If It Does'nt Open Contact Me On Telegram {yellow}@RXCE_LOVER")
+        print(f"If It Does'nt Open Contact Me On Telegram {yellow}....")
         print(f"{neon}*---------*----------*-------------*----------*")
         print(f"{red}*---------*----------*-------------*----------*")
         print("payhere--- UPI : ")
@@ -224,7 +224,7 @@ else:
             print("2nd-30th APRIL 2022, 08:30 PM- 09:00 PM")
             print("Please play on the given time, and ")
             print(f"If you think it is an {red}error {yellow}contact {green}me ")
-            print(f"{neon}On Telegram {red}@RXCE_LOVER")
+            print(f"{neon}On Telegram {red}....")
             print("wait.... starting....")
             time.sleep(20)
             period=rava
@@ -235,7 +235,7 @@ else:
             #rint("To all the weekly members next week, cost will be  ")
             #print(" 4000 INR , because in this week 2 days off " )
             #print("Thank You!! ")
-            sys.exit(" \n \n \n Contact on Telegram @RXCE_LOVER")
+            sys.exit(" \n \n \n Contact on Telegram .....")
         elif(bhai==nextday):
             clear()
             banner='figlet RXCEV5.0|lolcat'
@@ -251,7 +251,7 @@ else:
             period=rava
             hero()
             #period("Sorry too many people(>20) using hack in same time ")
-            sys.exit(" \n \n \n Contact on Telegram @RXCE_LOVER")
+            sys.exit(" \n \n \n Contact on Telegram .....")
         elif(bhai==night):
             clear()
             print("----------Your play time-----------")
@@ -264,7 +264,7 @@ else:
             time.sleep(20)
             period=410
             hero()
-            sys.exit(" \n \n \n Contact on Telegram @RXCE_LOVER")
+            sys.exit(" \n \n \n Contact on Telegram ....")
         else:
             clear()
             banner='figlet RXCEV5.0|lolcat'
