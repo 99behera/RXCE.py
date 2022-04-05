@@ -76,7 +76,7 @@ def hero():
     clear()
     y=1
     newperiod=period
-    banner='figlet RXCEV5.0|lolcat'
+    banner='figlet RXCEV5.2|lolcat'
     numbers=[]
     while(y):
         clear()
@@ -144,7 +144,7 @@ if(expirydate>today):
             period=360
             hero()
     else:
-        banner='figlet RXCEV5.0'
+        banner='figlet RXCEV5.2'
         system(banner)
         #print(f"{red}"Hi!! Thanks for buying the hack")
         print("Hi! thanks for trying our DEMO")
@@ -173,7 +173,7 @@ else:
     test="BVCFT43"
     night="NSMNJUI13"
     nextday="RXCE"
-    banner='figlet RXCEV5.0|lolcat'
+    banner='figlet RXCEV5.2|lolcat'
     rava=0
     now = datetime.datetime.now()
     Second = now.replace(hour=10, minute=55, second=0, microsecond=0)
@@ -192,7 +192,7 @@ else:
     system(banner)
     print(f"{neon}*--------*--------*-------*---------*---------*")
     print("Your hack has expired--- Please contact")
-    print(" on telegram ---- for activating")
+    print(" on telegram ----- for activating")
     print("     Plan Amount --    Total limit " )
     print(" 1.  1000 INR -------  1 Day (30 Games")
     print(" 2.  2500 INR -------  3 Days(90 Games")
@@ -206,7 +206,7 @@ else:
         print(f"Activate Hack By Entering The Correct ")
         print(f"{green}(UTR) Or Upi Reference Number") 
         print(f"{neon}To Activate The Hack")
-        print(f"If It Does'nt Open Contact Me On Telegram {yellow}....")
+        print(f"If It Does'nt Open Contact Me On Telegram {yello}@RXCE_LOVER")
         print(f"{neon}*---------*----------*-------------*----------*")
         print(f"{red}*---------*----------*-------------*----------*")
         print("payhere--- UPI : ")
@@ -238,7 +238,7 @@ else:
             sys.exit(" \n \n \n Contact on Telegram .....")
         elif(bhai==nextday):
             clear()
-            banner='figlet RXCEV5.0|lolcat'
+            banner='figlet RXCEV5.2|lolcat'
             system(banner)
             print("----------Your play time-----------")
             print("11th-1st MAR 2022, 02:30 PM- 03:00 PM")
@@ -267,7 +267,7 @@ else:
             sys.exit(" \n \n \n Contact on Telegram ....")
         else:
             clear()
-            banner='figlet RXCEV5.0|lolcat'
+            banner='figlet RXCEV5.2|lolcat'
             system(banner)
             print("Incorrect Activation Code :")
      
